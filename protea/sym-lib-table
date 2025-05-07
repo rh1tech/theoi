@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FRANK")(type "KiCad")(uri "${KIPRJMOD}/LIBS/FRANK.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/LIBS/ESP8266.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266-12E_ESP-12E")(type "KiCad")(uri "${KIPRJMOD}/LIBS/ESP8266-12E_ESP-12E.kicad_sym")(options "")(descr ""))
+)
