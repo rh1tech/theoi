@@ -1,0 +1,227 @@
+(footprint "DS05127203BKSMTTR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "DS05-127-2-03BK-SMT-TR-1")
+	(tags "Switch")
+	(property "Reference" "S**"
+		(at 0 0 90)
+		(layer "F.SilkS")
+		(uuid "c300e7a2-c37a-45ce-afef-36b86cd3e15c")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.14)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "DS05127203BKSMTTR"
+		(at 0 0.577 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "55f237f9-5da1-4d6a-b927-52d86400e6cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dfc7d02e-67bc-472f-9320-02eda87fce1e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7169f72-b713-42fe-9146-8ad19c0a234c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.69 -2.7)
+		(end 2.69 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e77b9f92-f9fb-4fcb-8f9b-579e4c76d86f")
+	)
+	(fp_line
+		(start -2.69 2.7)
+		(end -2.69 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4897e2c2-083a-4d9d-b05e-0c7de276e03e")
+	)
+	(fp_line
+		(start -2.4 3.1)
+		(end -2.4 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "11f77937-3fe4-4be1-90f5-b2a432373e9d")
+	)
+	(fp_line
+		(start -2.4 3.2)
+		(end -2.4 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0a34d46-6cb6-4005-a66d-0e850f3672f4")
+	)
+	(fp_line
+		(start 2.69 -2.7)
+		(end 2.69 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32496839-07e6-4369-aea1-d66f6eea881d")
+	)
+	(fp_line
+		(start 2.69 2.7)
+		(end -2.69 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "527096ae-5fa8-4e6e-8e16-1d331f8c1136")
+	)
+	(fp_arc
+		(start -2.4 3.1)
+		(mid -2.35 3.15)
+		(end -2.4 3.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60e8c5c9-4e0d-422c-a661-45d8274cebbc")
+	)
+	(fp_arc
+		(start -2.4 3.2)
+		(mid -2.45 3.15)
+		(end -2.4 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bf5c1f0-ac44-4689-98a4-1d3a725b466e")
+	)
+	(fp_line
+		(start -2.69 -2.7)
+		(end 2.69 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2b06eff1-898a-4ca7-a13e-c972c3f1cdbb")
+	)
+	(fp_line
+		(start -2.69 2.7)
+		(end -2.69 -2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "59f0fddf-1c79-47d0-a352-3fb65b08634e")
+	)
+	(fp_line
+		(start 2.69 -2.7)
+		(end 2.69 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ebba12c6-dfab-4e65-86e6-407de7e366e9")
+	)
+	(fp_line
+		(start 2.69 2.7)
+		(end -2.69 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21a7a515-0e45-49be-a78c-17717713e697")
+	)
+	(pad "1" smd rect
+		(at -1.27 3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "62c97d98-ce57-42e0-aa46-9e1dafdd4e2d")
+	)
+	(pad "2" smd rect
+		(at 0 3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "645c263b-9012-417f-8351-ca5c8182ab4c")
+	)
+	(pad "3" smd rect
+		(at 1.27 3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8f9ef2f7-53af-4e27-ad98-fc1ebb81c4d7")
+	)
+	(pad "4" smd rect
+		(at 1.27 -3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "373eb48a-e0dd-4f67-929d-0c37df81b951")
+	)
+	(pad "5" smd rect
+		(at 0 -3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a48b5105-5f41-49de-818a-973fc4e5ebfc")
+	)
+	(pad "6" smd rect
+		(at -1.27 -3.81)
+		(size 0.76 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bf937ad2-138b-4578-bcae-78fbb912bcb3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D/DS05-127-2-03BK-SMT-TR.stp"
+		(offset
+			(xyz 1.73 -9.7 -1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
