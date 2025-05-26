@@ -3247,7 +3247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FRANK:SOIC127P600X175-16N"
+		(property "Footprint" "FRANK:SOP-16"
 			(at 107.95 163.5 0)
 			(effects
 				(font
